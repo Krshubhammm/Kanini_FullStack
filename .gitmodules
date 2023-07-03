@@ -1,0 +1,3 @@
+[submodule "Kanini_Hospitals"]
+	path = Kanini_Hospitals
+	url = https://github.com/Krshubhammm/Kanini_FullStack.git
